@@ -90,7 +90,7 @@
             #region task 02
             //person[] person = new person[3];
 
-            //person[0]=new person("saeed" , 25);
+            //person[0]=new person("saeeed" , 25);
             //person[1] = new person("ahmed", 30);
             //person[2] = new person("mohamed", 20);
 
